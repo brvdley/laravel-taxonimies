@@ -40,7 +40,7 @@ class Term extends Model
     /**
      * @inheritdoc
      */
-    public function sluggable()
+    public function sluggable() : array
     {
         return [
             'slug' => [
