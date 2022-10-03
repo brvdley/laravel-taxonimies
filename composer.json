@@ -26,12 +26,10 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "illuminate/support"  : "^8.0",
-        "illuminate/database" : "^8.0",
-        "cviebrock/eloquent-sluggable" : "^8.0"
+        "cviebrock/eloquent-sluggable" : "^9.0"
     },
     "require-dev": {
-        "laravel/framework" : "^8.0",
+        "laravel/framework" : "^9.0",
         "mockery/mockery" : "^1.4.2",
         "phpunit/phpunit" : "^9.3.3",
         "doctrine/dbal": "^2.11"
